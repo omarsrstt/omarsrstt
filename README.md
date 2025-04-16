@@ -42,6 +42,8 @@ Currently improving my German (B1+) 🇩🇪
 - **📦 [ROS2 Provenance Tracking](https://github.com/omareldahshoury/ROS2-Provenance-Recording)**  
   Custom ROS2 integration for robotic data lineage tracking
 
+- **🤖 [Robocup Work: Gripper control module with encoder-based overheating prevention](https://github.com/michal-stolarz/gripper_control)**
+
 - **🤖 [Four legged autonomous robot (ABU Robocon 2019)](https://www.youtube.com/watch?v=6dfaND6Z6hM)**
     
 - **🤖 [Autonomous & Manual Robot coordination (ABU Robocon 2018)](https://www.youtube.com/watch?v=S2KJ1FbRUXg)**  
