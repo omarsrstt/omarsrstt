@@ -42,13 +42,13 @@ Currently improving my German (B1+) 🇩🇪
 - **📦 [ROS2 Provenance Tracking](https://github.com/omareldahshoury/ROS2-Provenance-Recording)**  
   Custom ROS2 integration for robotic data lineage tracking
 
-- **📦 [Four legged autonomous robot (ABU Robocon 2019)](https://www.youtube.com/watch?v=6dfaND6Z6hM)**
+- **🤖 [Four legged autonomous robot (ABU Robocon 2019)](https://www.youtube.com/watch?v=6dfaND6Z6hM)**
     
-- **📦 [Autonomous & Manual Robot coordination (ABU Robocon 2018)](https://www.youtube.com/watch?v=S2KJ1FbRUXg)**  
+- **🤖 [Autonomous & Manual Robot coordination (ABU Robocon 2018)](https://www.youtube.com/watch?v=S2KJ1FbRUXg)**  
 
-- **📦 [R&D Project: Three DOF Robotic Arm control ](https://www.youtube.com/watch?v=1j9LVPWlGUc)**  
+- **🛠️ [R&D Project: Three DOF Robotic Arm control ](https://www.youtube.com/watch?v=1j9LVPWlGUc)**  
 
-- **📦 [Frisbee Shooter Robot (ABU Robocon 2017)](https://www.youtube.com/watch?v=s_KsARK3iPM)**
+- **🤖 [Frisbee Shooter Robot (ABU Robocon 2017)](https://www.youtube.com/watch?v=s_KsARK3iPM)**
 
 ---
 
